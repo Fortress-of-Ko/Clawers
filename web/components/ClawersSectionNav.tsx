@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, MapPin, MessageCircle, PlayCircle, User, LogOut } from 'lucide-react';
+import { Home, MapPin, MessageCircle, PlayCircle, Star, User, LogOut } from 'lucide-react';
 import { useAuth } from '@/lib/supabase/useAuth';
 import NotificationBell from '@/components/NotificationBell';
 
@@ -12,6 +12,7 @@ type Props = {
     labels: {
         home: string;
         map: string;
+        reviews: string;
         community: string;
         watch: string;
     };
@@ -46,6 +47,7 @@ export default function ClawersSectionNav({ locale, labels }: Props) {
     const navItems = [
         { key: 'home', icon: <Home size={18} strokeWidth={2.5} />, href: base, label: labels.home, isActive: pathname === base },
         { key: 'map', icon: <MapPin size={18} strokeWidth={2.5} />, href: `${base}/map`, label: labels.map, isActive: pathname.endsWith('/map') },
+        { key: 'reviews', icon: <Star size={18} strokeWidth={2.5} />, href: `${base}/reviews`, label: labels.reviews, isActive: pathname.endsWith('/reviews') },
         { key: 'community', icon: <MessageCircle size={18} strokeWidth={2.5} />, href: `${base}/community`, label: labels.community, isActive: pathname.endsWith('/community') },
         { key: 'watch', icon: <PlayCircle size={18} strokeWidth={2.5} />, href: `${base}/watch`, label: labels.watch, isActive: pathname.endsWith('/watch') },
     ];

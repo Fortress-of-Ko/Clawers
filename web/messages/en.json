@@ -10,6 +10,7 @@
   "nav": {
     "home": "Home",
     "map": "Map",
+    "reviews": "Reviews",
     "community": "Lounge",
     "watch": "Watch"
   },
@@ -107,5 +108,14 @@
     "reviewUpdated": "Review updated",
     "reviewDeleted": "Review deleted",
     "previewTitle": "View Details →"
+  },
+  "reviews": {
+    "pageTitle": "Spot Reviews",
+    "pageDesc": "Real reviews from fellow clawers",
+    "totalCount": "{count} reviews",
+    "empty": "No reviews yet",
+    "emptyDesc": "Find a spot on the map and leave the first review!",
+    "prev": "← Previous",
+    "next": "Next →"
   }
 }

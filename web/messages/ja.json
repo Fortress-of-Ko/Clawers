@@ -10,6 +10,7 @@
   "nav": {
     "home": "ホーム",
     "map": "マップ",
+    "reviews": "レビュー",
     "community": "コミュニティ",
     "watch": "YouTuber"
   },
@@ -109,5 +110,14 @@
     "reviewUpdated": "レビューが更新されました",
     "reviewDeleted": "レビューが削除されました",
     "previewTitle": "詳細を見る →"
+  },
+  "reviews": {
+    "pageTitle": "スポットレビュー",
+    "pageDesc": "クローラーたちのリアルなスポットレビュー",
+    "totalCount": "レビュー{count}件",
+    "empty": "まだレビューがありません",
+    "emptyDesc": "マップでスポットを見つけて最初のレビューを書きましょう！",
+    "prev": "← 前へ",
+    "next": "次へ →"
   }
 }

@@ -10,6 +10,7 @@
   "nav": {
     "home": "홈",
     "map": "지도",
+    "reviews": "리뷰",
     "community": "커뮤니티",
     "watch": "유튜버"
   },
@@ -109,5 +110,14 @@
     "reviewUpdated": "리뷰가 수정되었습니다",
     "reviewDeleted": "리뷰가 삭제되었습니다",
     "previewTitle": "상세보기 →"
+  },
+  "reviews": {
+    "pageTitle": "스팟 리뷰",
+    "pageDesc": "크로러들의 생생한 스팟 후기를 모아봤어요",
+    "totalCount": "리뷰 {count}개",
+    "empty": "아직 리뷰가 없어요",
+    "emptyDesc": "지도에서 스팟을 찾아 첫 리뷰를 남겨보세요!",
+    "prev": "← 이전",
+    "next": "다음 →"
   }
 }

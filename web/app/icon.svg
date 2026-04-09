@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#6366f1" />
+  <!-- Claw arm (center vertical bar) -->
+  <rect x="29" y="8" width="6" height="20" rx="2" fill="white" />
+  <!-- Left claw prong -->
+  <path d="M29 28 Q29 36 20 42 Q17 44 18 40 Q20 34 26 30 Z" fill="white" />
+  <!-- Right claw prong -->
+  <path d="M35 28 Q35 36 44 42 Q47 44 46 40 Q44 34 38 30 Z" fill="white" />
+  <!-- Center claw prong -->
+  <path d="M29 28 Q30 38 32 46 Q34 38 35 28 Z" fill="white" />
+  <!-- Small ring at top -->
+  <circle cx="32" cy="10" r="3" fill="none" stroke="white" stroke-width="2" />
+</svg>

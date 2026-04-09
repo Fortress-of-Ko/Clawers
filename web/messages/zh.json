@@ -10,6 +10,7 @@
   "nav": {
     "home": "首页",
     "map": "地图",
+    "reviews": "评价",
     "community": "社区",
     "watch": "YouTuber"
   },
@@ -109,5 +110,14 @@
     "reviewUpdated": "评价已更新",
     "reviewDeleted": "评价已删除",
     "previewTitle": "查看详情 →"
+  },
+  "reviews": {
+    "pageTitle": "地点评价",
+    "pageDesc": "来自抓娃娃爱好者的真实评价",
+    "totalCount": "{count}条评价",
+    "empty": "还没有评价",
+    "emptyDesc": "在地图上找到地点，留下第一条评价吧！",
+    "prev": "← 上一页",
+    "next": "下一页 →"
   }
 }

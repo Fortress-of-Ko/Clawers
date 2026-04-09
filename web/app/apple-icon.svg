@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <!-- Background -->
+  <rect width="180" height="180" rx="40" fill="#6366f1" />
+  <!-- Claw arm (center vertical bar) -->
+  <rect x="81" y="22" width="18" height="56" rx="6" fill="white" />
+  <!-- Left claw prong -->
+  <path d="M81 78 Q81 102 54 120 Q46 125 49 115 Q54 96 73 84 Z" fill="white" />
+  <!-- Right claw prong -->
+  <path d="M99 78 Q99 102 126 120 Q134 125 131 115 Q126 96 107 84 Z" fill="white" />
+  <!-- Center claw prong -->
+  <path d="M81 78 Q84 108 90 132 Q96 108 99 78 Z" fill="white" />
+  <!-- Small ring at top -->
+  <circle cx="90" cy="28" r="9" fill="none" stroke="white" stroke-width="5" />
+</svg>

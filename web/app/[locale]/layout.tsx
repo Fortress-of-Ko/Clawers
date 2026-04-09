@@ -63,6 +63,7 @@ export default async function ClawersLayout({ children, params }: Props) {
                 labels={{
                     home: t('home'),
                     map: t('map'),
+                    reviews: t('reviews'),
                     community: t('community'),
                     watch: t('watch'),
                 }}
