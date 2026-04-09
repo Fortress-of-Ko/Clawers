@@ -104,7 +104,7 @@ export async function POST(req: NextRequest) {
         .single();
 
     if (error) {
-        console.error('[clawers/posts] insert failed:', error.message);
+        console.error('[clawers/posts] insert failed:', error.message, error.details, error.hint);
         return NextResponse.json({ error: 'Failed to create post' }, { status: 500 });
     }
 
@@ -116,7 +116,7 @@ export async function POST(req: NextRequest) {
             display_name: user.user_metadata?.full_name?.split(' ')[0] ?? user.email?.split('@')[0] ?? '크로러',
         }, { onConflict: 'user_id', ignoreDuplicates: true });
     try {
-        await supabase.rpc('clawers_increment_post_count');
+        await supabase.rpc('clawers_increment_post_count', { p_user_id: user.id });
     } catch (err) { console.warn('[clawers] increment post_count failed:', err); }
 
     return NextResponse.json(data, { status: 201 });
