@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "homeTitle": "Clawers - 高级抓娃娃指南 | Clawers",
+    "homeDesc": "完美收获的高级抓娃娃地点指南。",
+    "communityTitle": "抓娃娃社区 | Clawers",
+    "communityDesc": "买卖、信息分享、评价一站式查看。",
+    "watchTitle": "抓娃娃YouTuber | Clawers",
+    "watchDesc": "相关频道和代表视频汇总。"
+  },
+  "nav": {
+    "home": "首页",
+    "map": "地图",
+    "community": "社区",
+    "watch": "YouTuber"
+  },
+  "home": {
+    "heroTitle": "完美的",
+    "heroHighlight": "抓娃娃地点",
+    "heroTitleEn": "Find the",
+    "heroHighlightEn": "best spot",
+    "heroSubtitle": "完美收获的高级指南",
+    "searchPlaceholder": "搜索地区、店铺名",
+    "quickActions": {
+      "nearby": {
+        "label": "附近地点",
+        "desc": "寻找附近店铺"
+      },
+      "tips": {
+        "label": "热门攻略",
+        "desc": "攻略视频合集"
+      },
+      "feed": {
+        "label": "社区动态",
+        "desc": "实时社区"
+      },
+      "market": {
+        "label": "二手交易",
+        "desc": "玩偶买卖"
+      }
+    },
+    "trending": "热门帖子",
+    "viewAll": "全部",
+    "more": "更多",
+    "communityFeed": "社区动态",
+    "proTips": "攻略视频",
+    "loadingVideos": "正在加载最新视频...",
+    "creators": "推荐创作者"
+  },
+  "community": {
+    "title": "社区",
+    "writeBtn": "✏ 发帖",
+    "searchPlaceholder": "搜索标题、内容、地区...",
+    "searchResults": "搜索结果 {count} 条",
+    "tags": {
+      "all": "全部",
+      "info": "信息分享",
+      "review": "评价",
+      "question": "提问",
+      "trade": "买卖",
+      "sold": "已完成"
+    },
+    "tradeStatus": {
+      "selling": "出售中",
+      "reserved": "已预约",
+      "sold": "已完成"
+    },
+    "empty": {
+      "title": "还没有帖子",
+      "desc": "成为第一个发帖的人吧！",
+      "btn": "✏ 写第一篇帖子"
+    },
+    "noResults": "没有搜索结果",
+    "postCount": "{count} 篇",
+    "prev": "← 上一页",
+    "next": "下一页 →"
+  },
+  "watch": {
+    "pageTitle": "抓娃娃大师",
+    "pageDesc": "查看高手的抓娃娃攻略",
+    "featuredCreators": "推荐创作者",
+    "latestVideos": "最新攻略视频",
+    "ytLive": "YouTube联动",
+    "loading": "正在加载视频..."
+  },
+  "spot": {
+    "title": "景点详情",
+    "machines": "{count}台机器",
+    "reviewCount": "{count}条评价",
+    "noReviews": "还没有评价",
+    "firstReview": "成为第一个评价的人吧！",
+    "writeReview": "写评价",
+    "editReview": "编辑评价",
+    "deleteReview": "删除",
+    "deleteConfirm": "确定要删除这条评价吗？",
+    "rating": "评分",
+    "contentPlaceholder": "这个地方怎么样？（至少10个字）",
+    "photos": "照片（{count}/3）",
+    "submit": "提交",
+    "update": "更新",
+    "liked": "喜欢",
+    "openMap": "在Kakao地图中查看",
+    "detailLink": "查看详情",
+    "minContent": "请输入至少10个字",
+    "maxPhotos": "最多可上传3张照片",
+    "prev": "← 上一页",
+    "next": "下一页 →",
+    "loginRequired": "需要登录",
+    "reviewSubmitted": "评价已提交",
+    "reviewUpdated": "评价已更新",
+    "reviewDeleted": "评价已删除",
+    "previewTitle": "查看详情 →"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "homeTitle": "クローラー - プレミアムクレーンゲームガイド | Clawers",
+    "homeDesc": "完璧なゲットのためのプレミアムクレーンゲームスポットガイド。",
+    "communityTitle": "クレーンゲームコミュニティ | Clawers",
+    "communityDesc": "売買、情報共有、レビューフィードを一画面で確認。",
+    "watchTitle": "クレーンゲームYouTuber | Clawers",
+    "watchDesc": "関連チャンネルと代表動画をまとめて。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "map": "マップ",
+    "community": "コミュニティ",
+    "watch": "YouTuber"
+  },
+  "home": {
+    "heroTitle": "完璧な",
+    "heroHighlight": "クレーンゲームスポット",
+    "heroTitleEn": "Find the",
+    "heroHighlightEn": "best spot",
+    "heroSubtitle": "完璧なゲットのためのプレミアムガイド",
+    "searchPlaceholder": "地域、店舗名で検索",
+    "quickActions": {
+      "nearby": {
+        "label": "近くのスポット",
+        "desc": "近くの店舗を探す"
+      },
+      "tips": {
+        "label": "人気攻略",
+        "desc": "攻略動画まとめ"
+      },
+      "feed": {
+        "label": "地域ニュース",
+        "desc": "リアルタイムコミュニティ"
+      },
+      "market": {
+        "label": "中古取引",
+        "desc": "ぬいぐるみ売買"
+      }
+    },
+    "trending": "人気の投稿",
+    "viewAll": "すべて",
+    "more": "もっと見る",
+    "communityFeed": "地域ニュース",
+    "proTips": "攻略動画",
+    "loadingVideos": "最新動画を読み込み中...",
+    "creators": "おすすめクリエイター"
+  },
+  "community": {
+    "title": "コミュニティ",
+    "writeBtn": "✏ 投稿する",
+    "searchPlaceholder": "タイトル、内容、地域で検索...",
+    "searchResults": "検索結果 {count}件",
+    "tags": {
+      "all": "すべて",
+      "info": "情報共有",
+      "review": "レビュー",
+      "question": "質問",
+      "trade": "売買",
+      "sold": "取引完了"
+    },
+    "tradeStatus": {
+      "selling": "販売中",
+      "reserved": "予約中",
+      "sold": "取引完了"
+    },
+    "empty": {
+      "title": "まだ投稿がありません",
+      "desc": "最初の投稿者になりましょう！",
+      "btn": "✏ 最初の投稿を書く"
+    },
+    "noResults": "検索結果がありません",
+    "postCount": "{count}件",
+    "prev": "← 前へ",
+    "next": "次へ →"
+  },
+  "watch": {
+    "pageTitle": "クレーンマスター",
+    "pageDesc": "上級者のクレーン攻略法をチェック",
+    "featuredCreators": "おすすめクリエイター",
+    "latestVideos": "最新攻略動画",
+    "ytLive": "YouTube連動",
+    "loading": "動画を読み込み中..."
+  },
+  "spot": {
+    "title": "スポット詳細",
+    "machines": "マシン{count}台",
+    "reviewCount": "レビュー{count}件",
+    "noReviews": "まだレビューがありません",
+    "firstReview": "最初のレビューを書いてみましょう！",
+    "writeReview": "レビューを書く",
+    "editReview": "編集する",
+    "deleteReview": "削除",
+    "deleteConfirm": "レビューを削除しますか？",
+    "rating": "評価",
+    "contentPlaceholder": "このスポットはどうでしたか？（最低10文字）",
+    "photos": "写真（{count}/3）",
+    "submit": "投稿",
+    "update": "更新",
+    "liked": "いいね",
+    "openMap": "カカオマップで見る",
+    "detailLink": "詳細を見る",
+    "minContent": "10文字以上入力してください",
+    "maxPhotos": "写真は最大3枚までです",
+    "prev": "← 前へ",
+    "next": "次へ →",
+    "loginRequired": "ログインが必要です",
+    "reviewSubmitted": "レビューが投稿されました",
+    "reviewUpdated": "レビューが更新されました",
+    "reviewDeleted": "レビューが削除されました",
+    "previewTitle": "詳細を見る →"
+  }
+}

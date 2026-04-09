@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "homeTitle": "클로러 - 프리미엄 인형뽑기 가이드 | Clawers",
+    "homeDesc": "실패 없는 완벽한 득템을 위한 프리미엄 인형뽑기 스팟 가이드. 가장 예쁜 샵과 꿀팁을 찾아보세요.",
+    "communityTitle": "인형뽑기 커뮤니티 | Clawers",
+    "communityDesc": "사고팔기, 정보공유, 후기 피드를 한 화면에서 확인합니다.",
+    "watchTitle": "인형뽑기 유튜버 | Clawers",
+    "watchDesc": "연관 인형뽑기 채널과 대표 영상을 모아봅니다."
+  },
+  "nav": {
+    "home": "홈",
+    "map": "지도",
+    "community": "커뮤니티",
+    "watch": "유튜버"
+  },
+  "home": {
+    "heroTitle": "완벽한",
+    "heroHighlight": "인형뽑기 스팟",
+    "heroTitleEn": "Find the",
+    "heroHighlightEn": "best spot",
+    "heroSubtitle": "실패 없는 완벽한 득템을 위한 프리미엄 가이드",
+    "searchPlaceholder": "지역, 매장명 검색",
+    "quickActions": {
+      "nearby": {
+        "label": "내 주변 스팟",
+        "desc": "가까운 매장 찾기"
+      },
+      "tips": {
+        "label": "인기 공략",
+        "desc": "꿀팁 영상 모음"
+      },
+      "feed": {
+        "label": "동네 소식",
+        "desc": "실시간 커뮤니티"
+      },
+      "market": {
+        "label": "중고 거래",
+        "desc": "인형 사고팔기"
+      }
+    },
+    "trending": "지금 뜨는 글",
+    "viewAll": "전체",
+    "more": "더보기",
+    "communityFeed": "동네 소식",
+    "proTips": "공략 영상",
+    "loadingVideos": "최신 영상을 불러오는 중...",
+    "creators": "추천 크리에이터"
+  },
+  "community": {
+    "title": "커뮤니티",
+    "writeBtn": "✏ 글쓰기",
+    "searchPlaceholder": "제목, 내용, 지역 검색...",
+    "searchResults": "검색 결과 {count}건",
+    "tags": {
+      "all": "전체",
+      "info": "정보공유",
+      "review": "후기",
+      "question": "질문",
+      "trade": "사고팔기",
+      "sold": "거래완료"
+    },
+    "tradeStatus": {
+      "selling": "판매중",
+      "reserved": "예약중",
+      "sold": "거래완료"
+    },
+    "empty": {
+      "title": "아직 글이 없어요",
+      "desc": "첫 번째 글의 주인공이 되어보세요!",
+      "btn": "✏ 첫 글 작성하기"
+    },
+    "noResults": "검색 결과가 없습니다",
+    "postCount": "{count}개",
+    "prev": "← 이전",
+    "next": "다음 →"
+  },
+  "watch": {
+    "pageTitle": "크레인 마스터",
+    "pageDesc": "고수들의 탑 크레인 공략법을 확인하세요",
+    "featuredCreators": "추천 크리에이터",
+    "latestVideos": "최신 공략 영상",
+    "ytLive": "YouTube 실시간 연동",
+    "loading": "영상을 불러오는 중입니다..."
+  },
+  "spot": {
+    "title": "스팟 상세",
+    "machines": "기계 {count}대",
+    "reviewCount": "리뷰 {count}개",
+    "noReviews": "아직 리뷰가 없어요",
+    "firstReview": "첫 리뷰를 남겨보세요!",
+    "writeReview": "리뷰 작성",
+    "editReview": "수정하기",
+    "deleteReview": "삭제",
+    "deleteConfirm": "리뷰를 삭제할까요?",
+    "rating": "별점",
+    "contentPlaceholder": "이 스팟은 어땠나요? (최소 10자)",
+    "photos": "사진 ({count}/3)",
+    "submit": "등록",
+    "update": "수정",
+    "liked": "좋아요",
+    "openMap": "카카오맵에서 보기",
+    "detailLink": "상세보기",
+    "minContent": "최소 10자 이상 입력해주세요",
+    "maxPhotos": "사진은 최대 3장까지 가능해요",
+    "prev": "← 이전",
+    "next": "다음 →",
+    "loginRequired": "로그인이 필요합니다",
+    "reviewSubmitted": "리뷰가 등록되었습니다",
+    "reviewUpdated": "리뷰가 수정되었습니다",
+    "reviewDeleted": "리뷰가 삭제되었습니다",
+    "previewTitle": "상세보기 →"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "homeTitle": "Clawers - Premium Spot Guide | Clawers",
+    "homeDesc": "Your ultimate guide to the most aesthetic and rewarding claw machine spots.",
+    "communityTitle": "Clawers Community | Clawers",
+    "communityDesc": "Community board for trading, tips, and haul posts.",
+    "watchTitle": "Clawers Creators | Clawers",
+    "watchDesc": "Curated claw creator channels and featured videos."
+  },
+  "nav": {
+    "home": "Home",
+    "map": "Map",
+    "community": "Lounge",
+    "watch": "Watch"
+  },
+  "home": {
+    "heroTitle": "Find the",
+    "heroHighlight": "best spot",
+    "heroSubtitle": "Your premium guide to the best claw machines",
+    "searchPlaceholder": "Search area or shop",
+    "quickActions": {
+      "nearby": {
+        "label": "Nearby",
+        "desc": "Find nearby"
+      },
+      "tips": {
+        "label": "Pro Tips",
+        "desc": "Best tips"
+      },
+      "feed": {
+        "label": "Local Feed",
+        "desc": "Community"
+      },
+      "market": {
+        "label": "Market",
+        "desc": "Buy & sell"
+      }
+    },
+    "trending": "Trending",
+    "viewAll": "All",
+    "more": "More",
+    "communityFeed": "Local Feed",
+    "proTips": "Pro Tips",
+    "loadingVideos": "Loading latest videos...",
+    "creators": "Creators"
+  },
+  "community": {
+    "title": "Community",
+    "writeBtn": "✏ Write",
+    "searchPlaceholder": "Search title, content, area...",
+    "searchResults": "{count} results",
+    "tags": {
+      "all": "All",
+      "info": "Info",
+      "review": "Reviews",
+      "question": "Q&A",
+      "trade": "Buy/Sell",
+      "sold": "Sold"
+    },
+    "tradeStatus": {
+      "selling": "Selling",
+      "reserved": "Reserved",
+      "sold": "Sold"
+    },
+    "empty": {
+      "title": "No posts yet",
+      "desc": "Be the first to share something!",
+      "btn": "✏ Write the first post"
+    },
+    "noResults": "No results found",
+    "postCount": "{count} posts",
+    "prev": "← Prev",
+    "next": "Next →"
+  },
+  "watch": {
+    "pageTitle": "Creator Watch",
+    "pageDesc": "Learn top crane strategies from the pros",
+    "featuredCreators": "Featured Creators",
+    "latestVideos": "Latest Strategies",
+    "ytLive": "Live YouTube",
+    "loading": "Loading videos..."
+  },
+  "spot": {
+    "title": "Spot Details",
+    "machines": "{count} machines",
+    "reviewCount": "{count} reviews",
+    "noReviews": "No reviews yet",
+    "firstReview": "Be the first to review!",
+    "writeReview": "Write Review",
+    "editReview": "Edit Review",
+    "deleteReview": "Delete",
+    "deleteConfirm": "Delete this review?",
+    "rating": "Rating",
+    "contentPlaceholder": "How was this spot? (min 10 chars)",
+    "photos": "Photos ({count}/3)",
+    "submit": "Submit",
+    "update": "Update",
+    "liked": "Liked",
+    "openMap": "View on Kakao Map",
+    "detailLink": "View Details",
+    "minContent": "Please enter at least 10 characters",
+    "maxPhotos": "Maximum 3 photos allowed",
+    "prev": "← Previous",
+    "next": "Next →",
+    "loginRequired": "Login required",
+    "reviewSubmitted": "Review submitted",
+    "reviewUpdated": "Review updated",
+    "reviewDeleted": "Review deleted",
+    "previewTitle": "View Details →"
+  }
+}
