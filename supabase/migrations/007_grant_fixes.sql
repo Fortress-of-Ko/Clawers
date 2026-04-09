@@ -8,6 +8,11 @@ REVOKE UPDATE ON TABLE clawers_posts FROM authenticated;
 GRANT UPDATE (title, content, area, price_krw, trade_status, images, spot_id, is_deleted)
   ON TABLE clawers_posts TO authenticated;
 
+-- 1b. clawers_posts: add spot_id to INSERT grant (was missing in 002)
+REVOKE INSERT ON TABLE clawers_posts FROM authenticated;
+GRANT INSERT (user_id, section, title, content, area, images, price_krw, trade_status, spot_id)
+  ON TABLE clawers_posts TO authenticated;
+
 -- 2. clawers_spot_reviews: REVOKE all direct DML (force RPC-only mutations)
 -- The previous migration granted UPDATE on (rating, content, images, updated_at)
 -- which allows bypassing the RPC and causing avg_rating drift.
